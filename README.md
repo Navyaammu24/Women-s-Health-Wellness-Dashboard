@@ -17,7 +17,9 @@ This project is an interactive Power BI dashboard focused on health and wellness
 - Responsive dashboard with slicers and charts
 
 ## 📷 Dashboard Preview
-( Dashboard in porject)
+( ## 📷 Dashboard Preview
+
+![Dashboard Screenshot](dashboard-preview.png))
 
 ## 🔗 Project Link
 [GitHub Repository](https://github.com/Navyaammu24/Women-s-Health-Wellness-Dashboard)
